@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.alistairyves.crispycomputingmachine.CrispyComputingMachineApplicationTests
--------------------------------------------------------------------------------
-<<<<<<< HEAD
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.881 s - in com.alistairyves.crispycomputingmachine.CrispyComputingMachineApplicationTests
-=======
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.076 s - in com.alistairyves.crispycomputingmachine.CrispyComputingMachineApplicationTests
->>>>>>> ece1fcf... change name
