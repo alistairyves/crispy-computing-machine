@@ -1,0 +1,4 @@
+When a search is made on a topic, add the references to my elasticSearch instance
+
+keep track of favorite podcasts? how would that be done in a logical way
+favorite episodes vs favorite series
